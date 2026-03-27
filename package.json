@@ -1,0 +1,28 @@
+{
+  "name": "aframe-planet-voyager",
+  "version": "1.0.0",
+  "description": "A-Frame で太陽系を擬似旅行できる Web-VR アプリケーション。",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawajiri34/aframe-planet-voyager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawajiri34/aframe-planet-voyager/issues"
+  },
+  "homepage": "https://github.com/kawajiri34/aframe-planet-voyager#readme",
+  "dependencies": {
+    "vite": "^8.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
