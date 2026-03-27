@@ -2,6 +2,8 @@
 
 A-Frame で太陽系を擬似旅行できる Web-VR アプリケーション。
 
+**https://kawajiri34.github.io/aframe-planet-voyager/**
+
 ## 概要
 
 ブラウザ上で太陽系の惑星間を自由に飛行し、各惑星を間近で観察できる VR 体験を提供する。
